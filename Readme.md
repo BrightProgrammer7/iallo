@@ -188,7 +188,6 @@ Stay tuned for updates as we bring these features to life!
 
 Have questions or need support? Reach out to us:
 
-- **Email:** [imaf.pro@gmail.com](mailto:imaf.pro@gmail.com)
 - **Website:** [I-AllO Website](https://iallo.surge.sh)
 
 We’re here to help you transform your business with AI-powered call solutions! 🌐
